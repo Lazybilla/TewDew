@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1072499951019",
+    "firebase_url": "https://tewdew-2e104.firebaseio.com",
+    "project_id": "tewdew-2e104",
+    "storage_bucket": "tewdew-2e104.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072499951019:android:dc94f23c83affdc935feee",
+        "android_client_info": {
+          "package_name": "com.example.tewdew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072499951019-4sclmndlc6sqnqe3i5ejqknq4h7obef7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tewdew",
+            "certificate_hash": "089030fc91a38958180b9c43d905894423bbbe54"
+          }
+        },
+        {
+          "client_id": "1072499951019-288rf553493pai7gn5glb20fetv1g1cv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDouWW-NB-7TJow4qapqlIE-oh4GrsSZQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072499951019-288rf553493pai7gn5glb20fetv1g1cv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

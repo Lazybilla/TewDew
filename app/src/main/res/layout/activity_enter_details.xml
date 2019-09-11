@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".EnterDetails">
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="75dp"
+        android:id="@+id/enter_head"
+        android:hint="Task Name"
+        ></EditText>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:hint="Description"
+        android:id="@+id/enter_description"
+        ></EditText>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="75dp"
+        android:hint="Comments"
+        android:id="@+id/enter_comments"
+        ></EditText>
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="75dp"
+        android:id="@+id/enter_button"
+        android:text="ADD TASK"
+        ></Button>
+
+
+
+
+</LinearLayout>
